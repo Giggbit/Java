@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hackerrank.iml" filepath="$PROJECT_DIR$/.idea/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java If-Else/Java If-Else.iml" filepath="$PROJECT_DIR$/Java If-Else/Java If-Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Loops I/Java Loops I.iml" filepath="$PROJECT_DIR$/Java Loops I/Java Loops I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" filepath="$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Stdin and Stdout I/Java Stdin and Stdout I.iml" filepath="$PROJECT_DIR$/Java Stdin and Stdout I/Java Stdin and Stdout I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Stdin and Stdout II/Java Stdin and Stdout II.iml" filepath="$PROJECT_DIR$/Java Stdin and Stdout II/Java Stdin and Stdout II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Welcome to Java/Welcome to Java.iml" filepath="$PROJECT_DIR$/Welcome to Java/Welcome to Java.iml" />
+    </modules>
+  </component>
+</project>
